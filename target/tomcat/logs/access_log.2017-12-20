@@ -1,0 +1,17 @@
+0:0:0:0:0:0:0:1 - - [20/Dec/2017:17:24:16 +0800] "GET /search.html?q=iphone%20X HTTP/1.1" 200 33325 http-bio-8083-exec-1 2394
+0:0:0:0:0:0:0:1 - - [20/Dec/2017:17:24:28 +0800] "GET / HTTP/1.1" 200 110717 http-bio-8083-exec-8 385
+0:0:0:0:0:0:0:1 - - [20/Dec/2017:17:24:29 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8083-exec-8 4
+0:0:0:0:0:0:0:1 - - [20/Dec/2017:17:24:32 +0800] "GET /search.html?q=iphone%20X HTTP/1.1" 200 33325 http-bio-8083-exec-8 76
+0:0:0:0:0:0:0:1 - - [20/Dec/2017:17:24:33 +0800] "GET /item/151297549819452.html HTTP/1.1" 200 33578 http-bio-8083-exec-8 344
+0:0:0:0:0:0:0:1 - - [20/Dec/2017:17:24:35 +0800] "GET /item/desc/151297549819452.html HTTP/1.1" 200 6998 http-bio-8083-exec-8 47
+0:0:0:0:0:0:0:1 - - [20/Dec/2017:17:24:35 +0800] "GET /cart/add/151297549819452.html HTTP/1.1" 302 - http-bio-8083-exec-8 51
+0:0:0:0:0:0:0:1 - - [20/Dec/2017:17:24:35 +0800] "GET /cart/success.html?title=Apple%20iPhone%20X%20(A1865)%2064GB%20%20%20%20%20%20%20%20%20%204G%20%20&id=151297549819452&image=http://192.168.133.128/images/2017-12-11/1512975325808118.jpg&num=1 HTTP/1.1" 200 18883 http-bio-8083-exec-8 122
+0:0:0:0:0:0:0:1 - - [20/Dec/2017:17:24:36 +0800] "GET /cart/cart.html HTTP/1.1" 200 18174 http-bio-8083-exec-8 132
+0:0:0:0:0:0:0:1 - - [20/Dec/2017:17:24:37 +0800] "GET /order/order-cart.html HTTP/1.1" 302 - http-bio-8083-exec-8 22
+0:0:0:0:0:0:0:1 - - [20/Dec/2017:17:24:54 +0800] "GET /order/order-cart.html HTTP/1.1" 200 24444 http-bio-8083-exec-8 232
+0:0:0:0:0:0:0:1 - - [20/Dec/2017:17:25:17 +0800] "POST /order/create.html HTTP/1.1" 200 7368 http-bio-8083-exec-8 20133
+0:0:0:0:0:0:0:1 - - [20/Dec/2017:17:25:17 +0800] "GET /js/jquery.cookie.js HTTP/1.1" 200 3121 http-bio-8083-exec-7 4
+0:0:0:0:0:0:0:1 - - [20/Dec/2017:17:25:17 +0800] "GET /css/purchase.base.2012.css HTTP/1.1" 200 13339 http-bio-8083-exec-5 7
+0:0:0:0:0:0:0:1 - - [20/Dec/2017:17:25:17 +0800] "GET /css/purchase.sop.css HTTP/1.1" 200 9885 http-bio-8083-exec-3 24
+0:0:0:0:0:0:0:1 - - [20/Dec/2017:17:25:18 +0800] "GET /images/icon48.png HTTP/1.1" 200 391 http-bio-8083-exec-5 1
+0:0:0:0:0:0:0:1 - - [20/Dec/2017:17:25:18 +0800] "GET /images/flow.gif HTTP/1.1" 200 818 http-bio-8083-exec-3 24
